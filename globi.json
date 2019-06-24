@@ -2,5 +2,8 @@
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "raymond",
   "citation": "Raymond, B., Marshall, M., Nevitt, G., Gillies, C., van den Hoff, J., Stark, J.S., Losekoot, M., Woehler, E.J., and Constable, A.J. (2011) A Southern Ocean dietary database. Ecology 92(5):1188. Available from http://dx.doi.org/10.1890/10-1907.1 . Data set supplied by Ben Raymond.",
-  "doi": "http://dx.doi.org/10.1890/10-1907.1"
+  "doi": "http://dx.doi.org/10.1890/10-1907.1",
+  "resources" : {
+    "https://data.aad.gov.au/aadc/trophic/trophic.zip": "https://depot.globalbioticinteractions.org/datasets/org/eol/globi/data/raymond2011/0.2/raymond2011-0.2.zip"
+  }
 }
